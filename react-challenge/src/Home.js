@@ -18,7 +18,7 @@ function Home() {
         <meta name="keywords" content="Image of my best friend!" />
         </Helmet>
         <button onClick={handleToggle}>Doggo</button>
-        {doggo ? (<img id="astro__image" alt='doggo' src={Astro}></img>) : (<p></p>)}
+        {doggo ? (<img id="astro__image" alt='doggo' src={Astro}></img>) : (<></>)}
         </div>
     )
 }
