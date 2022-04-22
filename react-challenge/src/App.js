@@ -10,7 +10,7 @@ function App() {
         <Helmet>
         <title>Astro the Golden</title>
         <meta name="my lovely doggo" content="the goldenator" />
-        <meta name="theme-color" content="#008f68" />
+        <meta name="keywords" content="Image of my best friend!" />
       </Helmet>
         <ul>
           <li>
